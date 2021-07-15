@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @amit-vishwa
 - 👀 I’m interested in learning new technologies
 - 🌱 I’m currently learning software applications
-- 📫 How to reach me - through email
+- 📫 How to reach me - amitvishwa789@gmail.com
 
 <!---
 amit-vishwa/amit-vishwa is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
