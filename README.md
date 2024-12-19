@@ -30,6 +30,6 @@ Welcome to my GitHub profile! I'm a passionate developer interested in software 
 
 ## 📫 Connect with Me
 
-- LinkedIn: [Your LinkedIn Profile](https://www.linkedin.com/in/amit-vishwakarma-av/)
+- LinkedIn: [Amit Vishwakarma](https://www.linkedin.com/in/amit-vishwakarma-av/)
 
 Thank you for visiting my profile! Feel free to explore my repositories and contact me if you'd like to collaborate on a project or say hi. 😊
