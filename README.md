@@ -9,7 +9,7 @@ Welcome to my GitHub profile! I'm a passionate developer interested in software 
 - 👯 I’m looking to collaborate on **Springboot projects**
 - 🤔 I’m looking for help with **DSA and complex code implementations**
 - 💬 Ask me about **API implementation using Springboot**
-- 📫 How to reach me: **mailto:amitvishwa789@example.com**
+- 📫 How to reach me: **mailto: amitvishwa789@example.com**
 - ⚡ Fun fact: **never wanted to become a backend developer yet getting more interest day by day**
 
 ## 🛠️ Technologies & Tools
@@ -24,14 +24,9 @@ Welcome to my GitHub profile! I'm a passionate developer interested in software 
 
 ## 📌 Pinned Repositories
 
-[![pizza-mania](https://github-readme-stats.vercel.app/api/pin/?username=amit-vishwa&repo=repository-name&theme=radical)](https://github.com/amit-vishwa/pizza-mania)
+[![pizza-mania](https://github-readme-stats.vercel.app/api/pin/?username=amit-vishwa&repo=pizza-mania&theme=radical)](https://github.com/amit-vishwa/pizza-mania)
 
-[![games](https://github-readme-stats.vercel.app/api/pin/?username=amit-vishwa&repo=repository-name&theme=radical)](https://github.com/amit-vishwa/games)
-
-## 📝 Latest Blog Posts
-
-<!-- BLOG-POST-LIST:START -->
-<!-- BLOG-POST-LIST:END -->
+[![games](https://github-readme-stats.vercel.app/api/pin/?username=amit-vishwa&repo=games&theme=radical)](https://github.com/amit-vishwa/games)
 
 ## 📫 Connect with Me
 
