@@ -1,9 +1,40 @@
-- 👋 Hi, I’m @amit-vishwa
-- 👀 I’m interested in learning new technologies
-- 🌱 I’m currently learning software applications
-- 📫 How to reach me - amitvishwa789@gmail.com
+# Hi there, I'm Amit VishwaKarma! 👋
 
-<!---
-amit-vishwa/amit-vishwa is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+Welcome to my GitHub profile! I'm a passionate developer interested in software development, open-source contributions, and continuous learning. You'll find a collection of my projects, contributions, and more here.
+
+## 🚀 About Me
+
+- 🔭 I’m currently working on **upskilling myself for a senior backend developer role**
+- 🌱 I’m currently learning **Advanced Java with Springboot Framework**
+- 👯 I’m looking to collaborate on **Springboot projects**
+- 🤔 I’m looking for help with **DSA and complex code implementations**
+- 💬 Ask me about **API implementation using Springboot**
+- 📫 How to reach me: **mailto:amitvishwa789@example.com**
+- ⚡ Fun fact: **never wanted to become a backend developer yet getting more interest day by day**
+
+## 🛠️ Technologies & Tools
+
+- **Languages:** Java, HTML, CSS, JavaScript
+- **Frameworks:** Springboot
+- **Tools:** Git, SpringToolSuite, IntelliJIDEA, MySQL Workbench, Postman, GitLab
+
+## 📈 GitHub Stats
+
+![Amit Vishwa's GitHub Stats](https://github-readme-stats.vercel.app/api?username=amit-vishwa&show_icons=true&theme=radical)
+
+## 📌 Pinned Repositories
+
+[![pizza-mania](https://github-readme-stats.vercel.app/api/pin/?username=amit-vishwa&repo=repository-name&theme=radical)](https://github.com/amit-vishwa/pizza-mania)
+
+[![games](https://github-readme-stats.vercel.app/api/pin/?username=amit-vishwa&repo=repository-name&theme=radical)](https://github.com/amit-vishwa/games)
+
+## 📝 Latest Blog Posts
+
+<!-- BLOG-POST-LIST:START -->
+<!-- BLOG-POST-LIST:END -->
+
+## 📫 Connect with Me
+
+- LinkedIn: [Your LinkedIn Profile](https://www.linkedin.com/in/amit-vishwakarma-av/)
+
+Thank you for visiting my profile! Feel free to explore my repositories and contact me if you'd like to collaborate on a project or say hi. 😊
