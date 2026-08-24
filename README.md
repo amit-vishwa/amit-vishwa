@@ -1,35 +1,25 @@
-# Hi there, I'm Amit VishwaKarma! 👋
+# Hi, I'm Amit Vishwakarma
 
-Welcome to my GitHub profile! I'm a passionate developer interested in software development, open-source contributions, and continuous learning. You'll find a collection of my projects, contributions, and more here.
+Java backend developer with an interest in API design, Spring Boot, security, testing, and data structures. This account contains both maintained projects and older learning exercises; repository READMEs identify their purpose and current status.
 
-## 🚀 About Me
+## Focus areas
 
-- 🔭 I’m currently working on **upskilling myself for a senior backend developer role**
-- 🌱 I’m currently learning **Advanced Java with Springboot Framework**
-- 👯 I’m looking to collaborate on **Springboot projects**
-- 🤔 I’m looking for help with **DSA and complex code implementations**
-- 💬 Ask me about **API implementation using Springboot**
-- 📫 How to reach me: **mailto: amitvishwa789@example.com**
-- ⚡ Fun fact: **never wanted to become a backend developer yet getting more interest day by day**
+- Java and Spring Boot backend development
+- REST APIs, authentication, and role-based authorization
+- SQL, JPA, and service-layer testing
+- Data structures, algorithms, and low-level design practice
 
-## 🛠️ Technologies & Tools
+## Selected repositories
 
-- **Languages:** Java, HTML, CSS, JavaScript
-- **Frameworks:** Springboot
-- **Tools:** Git, SpringToolSuite, IntelliJIDEA, MySQL Workbench, Postman, GitLab
+- [pizza-mania](https://github.com/amit-vishwa/pizza-mania) — Spring Boot commerce API demonstrating JWT, Cognito, role-based access control, JPA, and masked API audit logging.
+- [employee-management-system](https://github.com/amit-vishwa/employee-management-system) — Spring Boot employee-management service with automated tests and CI.
+- [dsa](https://github.com/amit-vishwa/dsa) — Java data-structures, algorithms, and low-level-design learning archive.
+- [StringCalculator](https://github.com/amit-vishwa/StringCalculator) — focused Java test-driven-development kata.
 
-## 📈 GitHub Stats
+## Repository status
 
-![Amit Vishwa's GitHub Stats](https://github-readme-stats.vercel.app/api?username=amit-vishwa&show_icons=true&theme=radical)
+Some repositories are retained as historical or educational material and are not production-ready. Archived repositories remain visible for reference but are read-only. Each retained project should be evaluated using the requirements and limitations in its own README.
 
-## 📌 Pinned Repositories
+## Contact
 
-[![pizza-mania](https://github-readme-stats.vercel.app/api/pin/?username=amit-vishwa&repo=pizza-mania&theme=radical)](https://github.com/amit-vishwa/pizza-mania)
-
-[![games](https://github-readme-stats.vercel.app/api/pin/?username=amit-vishwa&repo=games&theme=radical)](https://github.com/amit-vishwa/games)
-
-## 📫 Connect with Me
-
-- LinkedIn: [Amit Vishwakarma](https://www.linkedin.com/in/amit-vishwakarma-av/)
-
-Thank you for visiting my profile! Feel free to explore my repositories and contact me if you'd like to collaborate on a project or say hi. 😊
+[LinkedIn](https://www.linkedin.com/in/amit-vishwakarma-av/)
