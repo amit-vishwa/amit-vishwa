@@ -14,7 +14,7 @@ Java backend developer with an interest in API design, Spring Boot, security, te
 - [employee-management-system](https://github.com/amit-vishwa/employee-management-system) — Spring Boot employee-management service with automated tests and CI.
 - [pizza-mania](https://github.com/amit-vishwa/pizza-mania) — Spring Boot commerce API demonstrating JWT, Cognito, role-based access control, JPA, and masked API audit logging.
 - [dsa](https://github.com/amit-vishwa/dsa) — Java data-structures, algorithms, and low-level-design learning archive.
-- [StringCalculator](https://github.com/amit-vishwa/StringCalculator) — focused Java test-driven-development kata.
+- [scalable-notification-platform](https://github.com/amit-vishwa/scalable-notification-platform) — Spring Boot notification management service demonstrating event-driven concepts.
 
 ## Repository status
 
